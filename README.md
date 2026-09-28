@@ -3,7 +3,7 @@
 Landing page do **Melodia**, um app de músicas, desenvolvida para o Check-Point 05 da disciplina de Front-end Design (Engenharia de Software, Prof. Lucas Sousa).
 
 
-🔗 **Página publicada:** LINK do SITE
+🔗 **Página publicada:** [LINK do SITE](https://arvres.github.io/CP5-Front-End-Melodia/)
 
 ## Sobre o projeto
 
@@ -63,13 +63,13 @@ Todo o código fica em um único arquivo `index.html`, dividido em blocos coment
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/arvres/CP5-FrontEndDesign-Melodia/commits/main/
+   git clone https://github.com/arvres/CP5-Front-End-Melodia
    ```
 
    OU 
 
    ```bash
-   git clone git@github.com:arvres/CP5-FrontEndDesign-Melodia.git
+   git git@github.com:arvres/CP5-Front-End-Melodia.git
    ```
    
 2. Abra o arquivo `index.html` no navegador. Não é preciso instalar nada, mas é necessário ter conexão com a internet para carregar Tailwind, Font Awesome e as fontes.
