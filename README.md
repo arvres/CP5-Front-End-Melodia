@@ -74,13 +74,6 @@ Todo o código fica em um único arquivo `index.html`, dividido em blocos coment
    
 2. Abra o arquivo `index.html` no navegador. Não é preciso instalar nada, mas é necessário ter conexão com a internet para carregar Tailwind, Font Awesome e as fontes.
 
-## Como publicar no GitHub Pages
-
-1. Envie o `index.html` para a raiz do repositório.
-2. Acesse **Settings → Pages**.
-3. Em **Source**, escolha a branch `main` e a pasta `/ (root)`.
-4. Salve e aguarde o link de publicação aparecer.
-
 ## Integrantes do grupo
 
 - Pedro Henrique Alves 
@@ -95,9 +88,5 @@ Todo o código fica em um único arquivo `index.html`, dividido em blocos coment
 - O formulário de contato valida o formato do e-mail no navegador, mas não armazena os dados. Para isso, seria necessário um backend ou um serviço como o Formspree.
 - Depoimentos, nomes e links de redes sociais são fictícios e servem apenas para demonstração.
 - As fotos de perfil são carregadas do serviço pravatar.cc.
-
-## Observações
-
-Próximos passos, fora do escopo deste Check-Point: compilar o Tailwind em um build de produção, conectar o formulário a um backend real e publicar imagens próprias no lugar dos placeholders.
 
 © 2026 Melodia. Projeto acadêmico.
